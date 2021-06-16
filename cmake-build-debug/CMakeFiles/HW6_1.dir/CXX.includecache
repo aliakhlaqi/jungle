@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Animal.cpp
+iostream
+-
+cmath
+-
+Animal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Animal.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Animal.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/DomesticAnimal.cpp
+iostream
+-
+DomesticAnimal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/DomesticAnimal.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/DomesticAnimal.h
+Animal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Animal.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Jungle.cpp
+iostream
+-
+Jungle.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Jungle.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Jungle.h
+Animal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Animal.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Pet.cpp
+Pet.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Pet.h
+iostream
+-
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Pet.h
+Animal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Animal.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/WildAnimal.cpp
+iostream
+-
+WildAnimal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/WildAnimal.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/WildAnimal.h
+Animal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Animal.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-1/main.cpp
+iostream
+-
+Jungle.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Jungle.h
+DomesticAnimal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/DomesticAnimal.h
+WildAnimal.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/WildAnimal.h
+Pet.h
+/Users/clikpc/Desktop/C++ porojects/HW6-1/Pet.h
+
